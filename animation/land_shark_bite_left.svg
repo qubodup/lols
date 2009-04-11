@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="56"
+   height="11"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="land_shark_bite_left.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2781"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffddfb"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="253.62222"
+     inkscape:cy="87.624675"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1349"
+     inkscape:window-height="822"
+     inkscape:window-x="1087"
+     inkscape:window-y="158">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2383"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-360,-248)">
+    <g
+       id="g2544"
+       transform="translate(229,-237.36218)"
+       inkscape:export-filename="/home/qubodup/land_shark_bite.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180">
+      <path
+         sodipodi:nodetypes="ccccccccccc"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 146,489.36218 L 146,491.36218 L 156,492.36218 L 146,493.36218 L 146,495.36218 L 157,495.36218 L 157,492.36218 L 157,486.36218 L 150,486.36218 L 150,489.36218 L 146,489.36218 z"
+         id="path2546" />
+      <path
+         sodipodi:nodetypes="ccsccccccccsssc"
+         id="path2548"
+         d="M 145,489.36218 L 155,491.36218 L 155,492.36218 C 155,494.36218 150,494.36218 145,494.36218 L 145,496.36218 L 159,496.36218 L 159,492.36218 C 159,486.36218 159,485.36218 154,485.36218 L 150,485.36218 C 148,485.36218 145,485.36218 145,489.36218 z M 155,488.36218 C 155.552,488.36218 156,488.81018 156,489.36218 C 156,489.91418 155.552,490.36218 155,490.36218 C 154.448,490.36218 154,489.91418 154,489.36218 C 154,488.81018 154.448,488.36218 155,488.36218 z"
+         style="opacity:1;fill:#427fe8;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:#4180e8;fill-opacity:0.45;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 262,102 L 262,104.09375 L 263,104.1875 L 263,102.21875 L 262,102 z M 263,102.21875 L 264,102.4375 L 264,102 L 263,102 L 263,102.21875 z M 264,102.4375 L 264,104.3125 L 265,104.40625 L 265,102.65625 L 264,102.4375 z M 265,102.65625 L 266,102.875 L 266,102 L 265,102 L 265,102.65625 z M 266,102.875 L 266,104.5 L 267,104.59375 L 267,103.125 L 266,102.875 z M 267,103.125 L 268,103.34375 L 268,102 L 267,102 L 267,103.125 z M 268,103.34375 L 268,104.6875 L 269,104.8125 L 269,103.5625 L 268,103.34375 z M 269,103.5625 L 269.71875,103.71875 L 269,103 L 269,103.5625 z M 269.71875,103.71875 L 270,104 L 270,104.90625 L 271,105 L 271,104 L 269.71875,103.71875 z M 271,105 L 270,105.09375 L 270,107 L 271,107 L 271,105 z M 269,105.1875 L 268,105.3125 L 268,108 L 269,108 L 269,105.1875 z M 267,105.40625 L 266,105.5 L 266,108 L 267,108 L 267,105.40625 z M 265,105.59375 L 264,105.6875 L 264,108 L 265,108 L 265,105.59375 z M 263,105.8125 L 262,105.90625 L 262,108 L 263,108 L 263,105.8125 z"
+         id="path2550"
+         transform="translate(-115,387.36218)" />
+    </g>
+    <g
+       transform="translate(243,-237.36218)"
+       id="g2555"
+       inkscape:export-filename="/home/qubodup/land_shark_bite.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180">
+      <path
+         id="path2557"
+         d="M 146,488.36218 L 146,490.36218 L 156,492.36218 L 146,494.36218 L 146,495.36218 L 157,495.36218 L 157,492.36218 L 157,486.36218 L 150,486.36218 L 150,489.36218 L 146,488.36218 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccccccc" />
+      <path
+         style="opacity:1;fill:#427fe8;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 145,488.36218 L 155,491.36218 L 155,492.36218 C 155,494.36218 150,495.36218 145,495.36218 L 145,496.36218 L 159,496.36218 L 159,492.36218 C 159,486.36218 159,485.36218 154,485.36218 L 150,485.36218 C 148,485.36218 145,485.36218 145,488.36218 z M 155,488.36218 C 155.552,488.36218 156,488.81018 156,489.36218 C 156,489.91418 155.552,490.36218 155,490.36218 C 154.448,490.36218 154,489.91418 154,489.36218 C 154,488.81018 154.448,488.36218 155,488.36218 z"
+         id="path2559"
+         sodipodi:nodetypes="ccsccccccccsssc" />
+      <path
+         style="opacity:1;fill:#4180e8;fill-opacity:0.45;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 282,100.875 L 282,103.1875 L 283,103.40625 L 283,101.09375 L 282,100.875 z M 283,101.09375 L 284,101.3125 L 284,100.875 L 283,100.875 L 283,101.09375 z M 284,101.3125 L 284,103.59375 L 285,103.8125 L 285,101.53125 L 284,101.3125 z M 285,101.53125 L 286,101.75 L 286,100.875 L 285,100.875 L 285,101.53125 z M 286,101.75 L 286,104 L 287,104.1875 L 287,102 L 286,101.75 z M 287,102 L 288,103.34375 L 288,100.875 L 287,100.875 L 287,102 z M 288,103.34375 L 288,104.40625 L 289,104.59375 L 289,103.5625 L 288,103.34375 z M 289,103.5625 L 289.71875,103.71875 L 289,103 L 289,103.5625 z M 289.71875,103.71875 L 290,104 L 290,104.8125 L 291,105 L 291,104 L 289.71875,103.71875 z M 291,105 L 290,105.1875 L 290,107 L 291,107 L 291,105 z M 289,105.40625 L 288,105.59375 L 288,108 L 289,108 L 289,105.40625 z M 287,105.8125 L 286,106 L 286,108 L 287,108 L 287,105.8125 z M 285,106.1875 L 284,106.40625 L 284,108 L 285,108 L 285,106.1875 z M 283,106.59375 L 282,106.8125 L 282,108 L 283,108 L 283,106.59375 z"
+         transform="translate(-135,387.36218)"
+         id="path2561"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    </g>
+    <g
+       id="g2566"
+       transform="translate(215,-237.36218)"
+       inkscape:export-filename="/home/qubodup/land_shark_bite.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 146,489.36218 L 146,495.36218 L 157,495.36218 L 157,486.36218 L 150,486.36218 L 150,489.36218 L 146,489.36218 z"
+         id="path2568" />
+      <path
+         sodipodi:nodetypes="ccsccccccccsssc"
+         id="path2570"
+         d="M 145,490.36218 L 155,491.36218 L 155,492.36218 C 155,494.36218 150,494.36218 145,494.36218 L 145,496.36218 L 159,496.36218 L 159,492.36218 C 159,486.36218 159,485.36218 154,485.36218 L 150,485.36218 C 148,485.36218 145,486.34936 145,490.36218 z M 155,488.36218 C 155.552,488.36218 156,488.81018 156,489.36218 C 156,489.91418 155.552,490.36218 155,490.36218 C 154.448,490.36218 154,489.91418 154,489.36218 C 154,488.81018 154.448,488.36218 155,488.36218 z"
+         style="opacity:1;fill:#427fe8;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccc"
+         id="path2572"
+         d="M 147,489.36218 L 147,495.36218 L 148,495.36218 L 148,489.36218 L 149,489.36218 L 149,495.36218 L 150,495.36218 L 150,489.36218 L 151,489.36218 L 151,495.36218 L 152,495.36218 L 152,489.36218 L 153,489.36218 L 153,495.36218 L 154,495.36218 L 154,490.36218 L 155,491.36218 L 155,494.36218 L 156,494.36218 L 156,491.36218 L 147,489.36218 z"
+         style="opacity:1;fill:#4180e8;fill-opacity:0.45;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(257,-237.36218)"
+       id="g2574"
+       inkscape:export-filename="/home/qubodup/land_shark_bite.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180">
+      <path
+         id="path2576"
+         d="M 146,489.36218 L 146,495.36218 L 157,495.36218 L 157,486.36218 L 150,486.36218 L 150,489.36218 L 146,489.36218 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         style="opacity:1;fill:#427fe8;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 145,490.36218 L 155,491.36218 L 155,492.36218 C 155,494.36218 150,494.36218 145,494.36218 L 145,496.36218 L 159,496.36218 L 159,492.36218 C 159,486.36218 159,485.36218 154,485.36218 L 150,485.36218 C 148,485.36218 145,486.34936 145,490.36218 z M 155,488.36218 C 155.552,488.36218 156,488.81018 156,489.36218 C 156,489.91418 155.552,490.36218 155,490.36218 C 154.448,490.36218 154,489.91418 154,489.36218 C 154,488.81018 154.448,488.36218 155,488.36218 z"
+         id="path2578"
+         sodipodi:nodetypes="ccsccccccccsssc" />
+      <path
+         style="opacity:1;fill:#4180e8;fill-opacity:0.45;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 147,489.36218 L 147,495.36218 L 148,495.36218 L 148,489.36218 L 149,489.36218 L 149,495.36218 L 150,495.36218 L 150,489.36218 L 151,489.36218 L 151,495.36218 L 152,495.36218 L 152,489.36218 L 153,489.36218 L 153,495.36218 L 154,495.36218 L 154,490.36218 L 155,491.36218 L 155,494.36218 L 156,494.36218 L 156,491.36218 L 147,489.36218 z"
+         id="path2580"
+         sodipodi:nodetypes="ccccccccccccccccccccc" />
+    </g>
+  </g>
+</svg>
